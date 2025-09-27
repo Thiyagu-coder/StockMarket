@@ -69,3 +69,9 @@ scikit-learn>=1.5.2
 statsmodels>=0.14.4
 streamlit>=1.39.0
 yfinance>=0.2.48
+streamlit
+pandas_datareader
+pandas_ta
+plotly
+
+
